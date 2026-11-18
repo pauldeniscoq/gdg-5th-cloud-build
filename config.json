@@ -1,40 +1,40 @@
 {
   "items": [
     {
-      "name": "滷肉飯",
-      "description": "慢燉滷肉配上熱騰騰的白飯，簡單又滿足。",
+      "name": "肉燥乾麵",
+      "description": "Q彈麵條拌上香濃肉燥，撒點蔥花更對味。",
       "category": "主食",
-      "price": 65
-    },
-    {
-      "name": "雞肉飯",
-      "description": "鮮嫩雞絲、油蔥香氣，再搭配一份醃蘿蔔。",
-      "category": "主食",
-      "price": 75
-    },
-    {
-      "name": "紅燒牛肉麵",
-      "description": "紅燒湯頭、軟嫩牛肉與吸滿湯汁的麵條。",
-      "category": "主食",
-      "price": 180
-    },
-    {
-      "name": "燙青菜",
-      "description": "清爽的當季青菜，搭配蒜香醬汁。",
-      "category": "小菜",
-      "price": 45
-    },
-    {
-      "name": "蘿蔔排骨湯",
-      "description": "白蘿蔔與排骨細火燉煮，暖暖喝一碗。",
-      "category": "湯品",
       "price": 60
     },
     {
-      "name": "古早味紅茶",
-      "description": "熟悉的茶香與微甜滋味，冰涼解渴。",
+      "name": "雞腿便當",
+      "description": "酥香大雞腿配上白飯與三樣配菜，份量十足。",
+      "category": "主食",
+      "price": 100
+    },
+    {
+      "name": "清燉牛肉湯麵",
+      "description": "清甜牛骨湯底，搭配嫩牛肉片與細麵。",
+      "category": "主食",
+      "price": 170
+    },
+    {
+      "name": "涼拌小黃瓜",
+      "description": "爽脆小黃瓜佐蒜末與香油，開胃解膩。",
+      "category": "小菜",
+      "price": 40
+    },
+    {
+      "name": "虱目魚丸湯",
+      "description": "手工魚丸彈牙鮮美，湯頭清爽不油膩。",
+      "category": "湯品",
+      "price": 50
+    },
+    {
+      "name": "冬瓜檸檬",
+      "description": "古早冬瓜茶加上新鮮檸檬，酸甜消暑。",
       "category": "飲品",
-      "price": 30
+      "price": 35
     }
   ]
 }
